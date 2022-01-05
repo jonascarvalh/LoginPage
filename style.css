@@ -42,6 +42,13 @@ form input[type=text] {
     border-style: solid;
     border-radius: 4px;
 }
+form input[type=password] {
+    width: 250px;
+    height: 30px;
+    border: 3px solid #1D1D1D;
+    border-style: solid;
+    border-radius: 4px;
+}
 
 main h2 {
     font-weight: 600;
